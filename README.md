@@ -1,1 +1,1 @@
-GitHub Repository for storing Nazca GDS code.
+GitHub repository for storing photonic GDS code.
