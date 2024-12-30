@@ -11,7 +11,7 @@ def grating_coupler_template():
     #Grating coupler template based on Tam's 477_PlasmoniAC_Passive GDS
     
     #Parameters
-    cell_name="PECVD O Band TM Grating Coupler"
+    cell_name="PECVD O Band TE Grating Coupler"
     waveguide_width=0.7;
     grating_width=14;
     taper_length=300
