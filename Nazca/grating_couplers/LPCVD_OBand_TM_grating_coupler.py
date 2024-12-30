@@ -17,7 +17,7 @@ def grating_coupler_template():
     taper_length=300
     pre_grating_length=10;
     post_grating_length=10;
-    period=0.989;\
+    period=1.095;
     fill_factor=0.56;
     number_of_gratings=100;
     
