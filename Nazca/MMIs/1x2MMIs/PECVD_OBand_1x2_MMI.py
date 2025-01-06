@@ -9,8 +9,8 @@ import nazca as nd
 import nazca.mask_elements as ele
 
 
-def LPCVD_CBand_1x2_MMI():
-    cell_name="PECVD_CBand_1x2_MMI";
+def PECVD_OBand_1x2_MMI():
+    cell_name="PECVD_OBand_1x2_MMI";
     number_of_inputs=1;
     number_of_outputs=2;
     taper_length=40;
