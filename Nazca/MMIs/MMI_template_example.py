@@ -17,10 +17,10 @@ taper_length=40;
 multimode_length=100;
 multimode_width=40;
 taper_width=3.4;
-taper_period=4.45;
+taper_separation=1.05;
 waveguide_width=1;
 
-mmi=MMI.MMI_template(cell_name, number_of_inputs, number_of_outputs, taper_length, multimode_length, multimode_width, taper_width, taper_period, waveguide_width).put();
+mmi=MMI.MMI_template(cell_name, number_of_inputs, number_of_outputs, taper_length, multimode_length, multimode_width, taper_width, taper_separation, waveguide_width).put();
 
 WG=ele.strt(10,1);
 
